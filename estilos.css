@@ -1,0 +1,29 @@
+body { 
+    font-family: Arial, sans-serif;
+    background-color: rgb(216, 178, 129);
+    color: #333;
+    margin: 20px;
+}
+header {
+    background-color: #ac9362;
+    color: beige;
+    padding: 10px;
+    text-align: center;
+}
+section {
+    margin: 20px;
+}
+h2 {
+    color: black;
+}
+ul {
+    list-style-type: lower-alpha;
+    padding: 10px;
+}
+li {
+    margin-bottom: 10px;
+}
+footer {
+    margin-top: 20px;
+    text-align: center;
+}
